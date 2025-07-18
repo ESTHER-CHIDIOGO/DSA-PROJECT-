@@ -8,8 +8,7 @@ To analyse the product and customer reveiew data and by so doing generate insigh
 on the product improvement and the sales improvement.
 
 ### Data Source: 
-1. the primary source of data used is an excel file containing data from 2009 to 2012. This data was scraped 
-from the Amason product pages.
+1. the primary source of data used is an excel file. This data was scraped from the Amason product pages.
 
 ### Tool used: Ms excel for data cleaning and creating reports
     - Data collection
