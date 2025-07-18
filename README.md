@@ -17,3 +17,14 @@ from the Amason product pages.
     - creating reports
       1. creating reports using pivot tables
       2. building dashboards
+### Data cleaning and preparation 
+during the course of the analysis we did
+1. Data loading and inspection
+2. handling of missing values
+3. Data cleaning and formatting
+
+### Exploratory Data analysis (EDA)
+here we explore the data to give anwers to the following questions:
+    - which product has the highest number of reviews
+    - which product have the highest avearage ratings
+    - how many products have a discount of 50% or more
